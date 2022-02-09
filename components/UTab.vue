@@ -3,7 +3,6 @@
     <p class="text">
       {{ text }}
     </p>
-    <!-- <div v-show="isActive" class="backdrop"></div> -->
   </div>
 </template>
 

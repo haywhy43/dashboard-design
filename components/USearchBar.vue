@@ -19,7 +19,7 @@
     </div>
     <input
       type="search"
-      class="h-full w-10/12 ml-auto bg-transparent !outline-none pr-2 text-base placeholder-gray-500"
+      class="h-full w-11/12 pl-1 ml-auto bg-transparent !outline-none pr-2 text-base placeholder-gray-500"
       placeholder="Search"
     />
   </div>
