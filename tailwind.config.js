@@ -1,10 +1,4 @@
 module.exports = {
-  mode: 'jit',
-  future: {
-    // removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
-  },
-
   theme: {
     colors: {
       primary: {
@@ -17,7 +11,7 @@ module.exports = {
         100: '#F2F4F7',
         200: '#EAECF0',
         300: '#D0D5DD',
-        500: '#101828',
+        500: '#667085',
         700: '#344054',
         900: '#101828,',
       },
@@ -36,6 +30,12 @@ module.exports = {
       white: '#ffffff',
       black: '#000000',
       transparent: 'transparent',
+    },
+    extend: {
+      fontSize: {
+        base: '0.938rem',
+        sm: '0.813rem',
+      },
     },
   },
 }
